@@ -20,7 +20,7 @@
 
 ### 🧠 About Me
 
-- 🚀 Freelance **AI Developer** building a professional presence on **Upwork** — specializing in **web applications** and **multi-domain problem-solving with AI agents**
+- 🚀 **AI Developer & Learner** — exploring **web applications** and **multi-domain problem-solving with AI agents**
 - 🤖 I build with **local & open-source LLMs** — Gemma 4, Qwen3, DeepSeek — favoring privacy-first, offline-first AI systems
 - 📈 Skilled in **data analysis** (Python: Pandas, NumPy · R · Advanced Excel)
 - 🌱 Currently mastering **predictive modeling & Machine Learning**
@@ -87,17 +87,26 @@ MCQ & CQ practice platform for SSC and HSC students.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ahcadil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ahcadil&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ahcadil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&custom_title=Ahc's%20GitHub%20Stats" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ahcadil&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahcadil&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahcadil&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="170" src="https://github-profile-trophy.vercel.app/?username=ahcadil&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=3&margin-w=8&margin-h=8" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahcadil&theme=darkhub&no-frame=true&row=1&column=6" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ahcadil&theme=tokyo-night&hide_border=true&area=true" />
 </p>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img align="center" width="100%" alt="contribution snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<p align="center"><i>Note: the snake animation above renders from a template — see setup note below to make it track your own contribution graph.</i></p>
 
 ---
 
