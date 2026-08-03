@@ -82,19 +82,6 @@ MCQ & CQ practice platform for SSC and HSC students.
 </tr>
 </table>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ahcadil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&custom_title=Ahc's%20GitHub%20Stats" />
-  <img height="170" src="https://streak-stats.demolab.com/?user=ahcadil&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahcadil&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-  <img height="170" src="https://github-profile-trophy.vercel.app/?username=ahcadil&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=3&margin-w=8&margin-h=8" />
-</p>
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ahcadil&theme=tokyo-night&hide_border=true&area=true" />
