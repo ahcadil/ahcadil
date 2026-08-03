@@ -88,7 +88,7 @@ MCQ & CQ practice platform for SSC and HSC students.
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=ahcadil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&custom_title=Ahc's%20GitHub%20Stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ahcadil&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=ahcadil&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -101,12 +101,12 @@ MCQ & CQ practice platform for SSC and HSC students.
 </p>
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <img align="center" width="100%" alt="contribution snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahcadil/ahcadil/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahcadil/ahcadil/output/github-contribution-grid-snake.svg" />
+  <img align="center" width="100%" alt="contribution snake animation" src="https://raw.githubusercontent.com/ahcadil/ahcadil/output/github-contribution-grid-snake.svg" />
 </picture>
 
-<p align="center"><i>Note: the snake animation above renders from a template — see setup note below to make it track your own contribution graph.</i></p>
+<p align="center"><i>Note: the snake will only render once the "Generate Snake" GitHub Action has run at least once on your repo and created the "output" branch — see setup steps below.</i></p>
 
 ---
 
